@@ -1,5 +1,3 @@
-# pin_and_paper_card_renderer
-
 # Pin & Paper Card Renderer
 
 Visual rendering for task cards — torn paper edges, index card styling, dynamic shadows, flip animations.
