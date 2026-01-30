@@ -1,0 +1,20 @@
+name: pin_and_paper_card_renderer
+description: Card visual rendering for Pin & Paper — torn paper, shadows, flip animations
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: '>=3.24.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pin_and_paper_sketchpad:
+    path: ../pin_and_paper_sketchpad
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/textures/
+    - assets/pins/
